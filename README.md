@@ -4,7 +4,7 @@ To use this sample you should follow the steps described below:
 
 1 - First you must to clone this repo.
 
-2 - To create the image you need go to root project directory (cd <cloned docker-php-poc path>) and run: 
+2 - To create the image you need go to root project directory (cd  /cloned_docker-php-poc_path/ ) and run: 
 ```sh 
   docker build -t php-poc:1.0 .
 ```
